@@ -1,31 +1,68 @@
-# open-knowledge-framework
+# Open Knowledge Framework
 
+## License for standards
 
-# License for standards:
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+Creative Commons Attribution 4.0 International
+(SPDX: `CC-BY-4.0`)
 
-Reasoning:
+See [LICENSE.standards.md](LICENSE.standards.md).
 
-    Nature of the Project: The inclusion of software and tools in addition to the specification makes the licensing a bit more nuanced. However, since you mentioned an emphasis on the data standard and interoperability, a Creative Commons license might be more appropriate for the data standard, while using a dual licensing approach for the software/tools.
+### Reasoning
 
-    Contributions: The CC BY 4.0 allows and encourages contributions. Its nature and intent make it clear for derivatives and adaptations.
+Nature of the Project:
+The inclusion of software and tools in addition to the specification
+makes the licensing a bit more nuanced.
+However,
+since you mentioned an emphasis on the data standard and interoperability,
+a Creative Commons license might be more appropriate for the data standard,
+while using a dual licensing approach for the software/tools.
 
-    Usage & Distribution: The CC BY 4.0 license does not place restrictions on commercial use or derivative works, but derivatives do not have to be open-sourced, aligning with your preference.
+Contributions:
+The CC-BY-4.0 allows and encourages contributions.
+Its nature and intent make it clear for derivatives and adaptations.
 
-    Commercial Use: This license permits commercial use without imposing obligations to give back, though users can be encouraged to do so.
+Usage & Distribution:
+The CC-BY-4.0 license does not place restrictions on commercial use or derivative works,
+but derivatives do not have to be open-sourced,
+aligning with your preference.
 
-    Credit & Attribution: This is a fundamental part of the CC BY 4.0 license. Anyone using the work must give appropriate attribution.
+Commercial Use:
+This license permits commercial use without imposing obligations to give back,
+though users can be encouraged to do so.
 
-    Compatibility: While the CC BY 4.0 license does not impose open source conditions on derivatives, it ensures broad interoperability and is friendly to both open and proprietary use-cases.
+Credit & Attribution:
+This is a fundamental part of the CC BY 4.0 license.
+Anyone using the work must give appropriate attribution.
 
-    Protection & Liability: The license includes a disclaimer of warranties.
+Compatibility:
+While the CC-BY-4.0 license does not impose open source conditions on derivatives,
+it ensures broad interoperability
+and is friendly to both open and proprietary use-cases.
 
-    Simplicity & Understanding: CC licenses are widely recognized and understood in both commercial and non-commercial communities internationally.
+Protection & Liability:
+The license includes a disclaimer of warranties.
 
-    International Use: The "International" in CC BY 4.0 ensures that the license is crafted for use around the world, regardless of local copyright laws.
+Simplicity & Understanding:
+CC licenses are widely recognized and understood
+in both commercial and non-commercial communities internationally.
 
-    Updates & Versioning: The license does not restrict usage to specific versions of your standard.
+International Use:
+The "International" in CC-BY-4.0 ensures that the license is crafted for use around the world,
+regardless of local copyright laws.
 
-# License for Software and Tools
+Updates & Versioning:
+The license does not restrict usage to specific versions of your standard.
+
+## License for Software and Tools
+
 MIT License
-It's permissive, allows for commercial use, doesn't require open sourcing of derivatives, but does require attribution 
+(SPDX: `MIT`)
+
+See [LICENSE.software.md](LICENSE.software.md).
+
+### Reasoning
+
+It is permissive,
+allows for commercial use,
+doesn't require open sourcing of derivatives,
+but does require attribution.
