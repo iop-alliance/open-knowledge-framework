@@ -1,13 +1,15 @@
 # Open Knowledge Framework
 
-## License for standards
+## Licenses
+
+### License for Standards
 
 Creative Commons Attribution 4.0 International
 (SPDX: `CC-BY-4.0`)
 
 See [LICENSE.standards.md](LICENSE.standards.md).
 
-### Reasoning
+#### Reasoning
 
 Nature of the Project:
 The inclusion of software and tools in addition to the specification
@@ -53,14 +55,14 @@ regardless of local copyright laws.
 Updates & Versioning:
 The license does not restrict usage to specific versions of your standard.
 
-## License for Software and Tools
+### License for Software and Tools
 
 MIT License
 (SPDX: `MIT`)
 
 See [LICENSE.software.md](LICENSE.software.md).
 
-### Reasoning
+#### Reasoning
 
 It is permissive,
 allows for commercial use,
