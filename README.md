@@ -1,5 +1,16 @@
 # Open Knowledge Framework
 
+## Standards
+
+The current standards in the framework are:
+
+- [Open Know-How (OKH)][OKH] \
+  Describes meta-data fields for
+  an Open Source Hardware (OSH) design project.
+- [Open Know-Where (OKW)][OKW] \
+  Describes meta-data fields for
+  a hardware manufacturing facility.
+
 ## Licenses
 
 ### License for Standards
@@ -68,3 +79,6 @@ It is permissive,
 allows for commercial use,
 doesn't require open sourcing of derivatives,
 but does require attribution.
+
+[OKH]: OpenKnowHow/README.md
+[OKW]: OpenKnowWhere/README.md
