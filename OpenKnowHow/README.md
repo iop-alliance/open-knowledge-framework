@@ -1,5 +1,12 @@
 # Open Know-How (OKH)
 
+DEPRECATED!
+
+Please refer to the [Open Know-How repo](
+https://github.com/iop-alliance/OpenKnowHow).
+
+---
+
 A standard that describes meta-data fields
 for an Open Source Hardware (OSH) design project.
 
